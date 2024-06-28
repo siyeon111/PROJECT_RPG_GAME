@@ -1,0 +1,317 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="bin\CardMatchingBackground.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\16.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\15.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\14.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\13.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\12.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\11.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\10.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\7.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_15_Remorhaz.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Plain.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Dogam Begyeong.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Majesty 2_1350x900.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_15_Remorhaz.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_14_Aboleth.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_13_BoneDevil.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_12_YoungGreenDragon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_11_BlueSlaad.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_10_Chasme.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_9_ShamblingMound.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_8_BoneNaga.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_7_Spectator.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_6_Ankheg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_5_Boneless.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_4_Darkmantle.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_3_Cackler.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_2_AbyssalChicken.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_1_Almiraj.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\_0_우와아하는털뭉치.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\Q.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\K.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\J.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\10.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\7.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\card\1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\youjok.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\win.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\sbgok.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\quest_back_cover.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\NPC1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\moster_war.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\moster_brak.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\lose.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\humon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\dice_1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\ButtonsImage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\bar.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\0.Magical Girl.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
